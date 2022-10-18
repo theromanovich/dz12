@@ -201,8 +201,8 @@ display: inline-block;
 .section-div__design:hover .image-back-design {
     opacity: 1;
 
-    margin-bottom: 14px;
-margin-left: 56px;
+    margin-bottom: 15px;
+margin-left: 57px;
   }
 .section-div__design:hover .image {
   opacity: 0;
