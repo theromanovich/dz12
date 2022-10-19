@@ -97,6 +97,9 @@ color: #16133D;
 margin-top: 40px;
 
 }
+.application-image {
+    margin-left: 10px;
+}
 .card-title-div {
     font-family: 'Roboto';
     font-family: sans-serif;
@@ -239,7 +242,7 @@ margin-left: 56px;
     opacity: 1;
 
     margin-bottom: 14px;
-margin-left: 49px;
+margin-left: 59px;
   }
 .section-div__application:hover .image {
   opacity: 0;
